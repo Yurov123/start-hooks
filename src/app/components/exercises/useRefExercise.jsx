@@ -1,3 +1,4 @@
+/*eslint-disable */
 import React, { useState } from "react";
 import { useRef } from "react";
 import CollapseWrapper from "../common/collapse";

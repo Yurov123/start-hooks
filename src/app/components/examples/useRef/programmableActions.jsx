@@ -1,3 +1,4 @@
+/*eslint-disable */
 import React from "react";
 import { useRef } from "react";
 import CardWrapper from "../../common/Card";
